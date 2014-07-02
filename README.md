@@ -1,4 +1,0 @@
-sinthex
-=======
-
-Simple VST instrument.
